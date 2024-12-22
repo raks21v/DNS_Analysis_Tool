@@ -45,5 +45,7 @@ IP Address: The resolved IP address of the domain.
 Response Time: The time it took to resolve the DNS queries (in milliseconds).
 DNSSEC Status: Whether the domain is signed with DNSSEC or not.
 Security Score: A numerical score (out of 100) indicating the security of the domain based on its DNS configuration.
+
 Contribution
+
 Feel free to contribute to this project! Open a pull request for bug fixes, improvements, or new features.
