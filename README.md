@@ -38,6 +38,7 @@ python app.py
 Open your browser and go to http://localhost:5000/ to use the tool.
 
 #Example Output
+
 The results returned by the analysis include:
 
 IP Address: The resolved IP address of the domain.
