@@ -25,7 +25,8 @@ Flask: A micro web framework used for building the web application.
 dns.resolver: A library used to query DNS records and check DNSSEC status.
 socket: Used to resolve the domain to its corresponding IP address.
 JavaScript: To handle dynamic interactions on the frontend (if applicable).
-#How to Run
+
+##How to Run
 Clone this repository to your local machine:
 git clone https://github.com/yourusername/dns-security-analyzer.git
 cd dns-security-analyzer
